@@ -1,2 +1,2 @@
-# SNAKE-GAME
-SNAKE GAME IN C WITH SDL2
+# Snake-Game
+Programme SNAKE en C (SDL)
